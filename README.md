@@ -5,7 +5,7 @@ criado uma página html com informações profissionais e imagens.
 
 💻**Construção**
 
-A construção da tela foi realizada utilizando html, como linguagem de marcação, css usado para estilização e imagens autorais e do navegador.
+A construção da tela foi realizada utilizando html, como linguagem de marcação, css usado para estilização e imagens.
 
 📋**Pré-requisitos**
 
