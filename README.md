@@ -1,17 +1,23 @@
 🎯**Apresentação Maria Eduarda**
 
-O repositório apresenta um simples formato de currículo "online", onde foi 
+O repositório apresenta um simples formato de portfólio "online", onde foi 
 criado uma página html com informações profissionais e imagens.
 
 💻**Construção**
 
-A construção da tela foi realizada utilizando html, como linguagem de marcação, css usado para estilização e imagens.
+Html
+
+Css
+
+Visual Studio Code
+
+Navegador
 
 📋**Pré-requisitos**
 
 Navegador 
 
-Visual Studio Code
+IDE de preferência ou editor de texto
 
 ▶️**Instalação**
 
